@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アイム・ザ・ワン（feat. Justin Bieber、Quavo、Chance the Rapper、Lil Wayne）",
+  "base_artist": "DJ Khaled",
+  "createdAt": "2026-02-09T16:42:39.673558Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I'm the One",
+      "artist": "DJ Khaled",
+      "has_synced": false,
+      "path": "select/pl_01_I'm_the_One_DJ_Khaled.txt"
+    }
+  ]
+}
